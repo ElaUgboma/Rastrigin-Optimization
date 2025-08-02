@@ -1,4 +1,3 @@
-# rastrigin-optimization
 # Optimization of the 2D Rastrigin Function Using GA, DE, and PSO
 
 ## Overview
@@ -16,7 +15,6 @@ f(x, y) = 20 + x² + y² – 10[cos(2πx) + cos(2πy)]
 Global minimum is at `(0, 0)` with `f(0, 0) = 0`.
 
 ## Repository Structure
-rastrigin-optimization/
 rastrigin-optimization/
 ├── ga.py        # Genetic Algorithm implementation
 ├── de.py        # Differential Evolution implementation
@@ -49,3 +47,7 @@ GA achieved the lowest mean fitness and highest robustness.
 PSO demonstrated the fastest initial convergence but showed moderate variability.
 DE achieved moderate performance and required careful parameter tuning.
 For detailed analysis and comparative discussion, see the full report in the report/ directory.
+
+## Acknowledgments
+Lecture materials on metaheuristic algorithms and parameter tuning
+Research papers cited in the report’s reference section
