@@ -16,6 +16,7 @@ Global minimum is at `(0, 0)` with `f(0, 0) = 0`.
 
 ## Repository Structure
 rastrigin-optimization/
+
 ├── ga.py        # Genetic Algorithm implementation
 ├── de.py        # Differential Evolution implementation
 ├── pso.py       # Particle Swarm Optimization implementation
