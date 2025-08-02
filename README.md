@@ -41,5 +41,8 @@ Convergence plots saved in plots/
 Fitness data saved in data/
 
 Results
-All three algorithms successfully converge to the global minimum (0,0).
-DE showed the fastest convergence and most stable results in testing.
+All three algorithms successfully converged to the global minimum (0,0) during testing:
+GA achieved the lowest mean fitness and highest robustness.
+PSO demonstrated the fastest initial convergence but showed moderate variability.
+DE achieved moderate performance and required careful parameter tuning.
+For detailed analysis and comparative discussion, see the full report in the report/ directory.
